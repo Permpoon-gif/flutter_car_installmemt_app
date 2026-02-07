@@ -24,13 +24,13 @@ class _SplashScreenUiState extends State<SplashScreenUi> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color.fromARGB(255, 36, 249, 117),
+      backgroundColor: Color.fromARGB(255, 1, 27, 105),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'assets/images/kkk.png',
+              'assets/images/car 4.png',
               width: 350,
               height: 200,
               fit: BoxFit.cover,
